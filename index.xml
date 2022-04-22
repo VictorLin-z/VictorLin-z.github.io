@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Zheng Lin(Chinese)</title>
+    <title>Zheng Lin</title>
     <link>https://VictorLin-z.github.io/</link>
-    <description>Recent content on Zheng Lin(Chinese)</description>
+    <description>Recent content on Zheng Lin</description>
     <generator>Hugo -- gohugo.io</generator><atom:link href="https://VictorLin-z.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://VictorLin-z.github.io/aboutme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://VictorLin-z.github.io/aboutme/</guid>
+      <description>林铮  硕士研究生
+生日：1997年2月
+籍贯：河北省 邯郸市
+E-mail：linzheng97@foxmail.com
+研究方向  1、多主体电力市场出清
+ ※日前电力系统出清研究
+ ※多主体协调交易设计与规划研究
+2、新型电力系统规划与运行机制
+ ※新型电力系统多层级保障性出力场景研究
+ ※源网评价下风光水火储协同出力机制研究
+3、机器学习在电力系统中的应用
+教育背景  2020.9 一 至今 昆明理工大学 能源动力一电气工程（硕士研究生, 导师: 刘可真 教授）
+ ※主要研究方向：双碳背景下新型电力系统规划研究、机器学习在电力系统中的应用
+ ※开题方向：“数据模型驱动的微电网鲁棒调度研究”
+2016.9 一 2020.6 昆明理工大学 电气工程及其自动化（学士, 卓越工程师计划）
+ ※ 毕业设计：“多能互补的清洁能源消纳方案和效益评价研究”（本科优秀毕业论文）
+学术成果  [1] 林铮, 刘可真, 沈赋, 等. 基于深度学习的海上风电多机组超短期功率预测[J]. 电力系统自动化. (EI检索, 已录用) “Link”
+[2] 刘可真, 林铮, 骆钊, 等. 基于改进关联规则的直流换流站典型运维事件集诊断方法[J]. 电力系统自动化, 2022, 46(4): 180-187. (EI检索, 导师一作) ”Link”
+[3] 黄剑湘, 林铮, 刘可真, 等.</description>
+    </item>
+    
     <item>
       <title>English Resume</title>
       <link>https://VictorLin-z.github.io/about/</link>
