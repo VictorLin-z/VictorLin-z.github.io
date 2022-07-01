@@ -6,7 +6,7 @@
     <description>Recent content on Zheng Lin</description>
     <generator>Hugo -- gohugo.io</generator><atom:link href="https://VictorLin-z.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
+      <title>About Me</title>
       <link>https://VictorLin-z.github.io/aboutme/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -41,13 +41,13 @@ E-mail：linzheng97@foxmail.com
       <description>Zheng Lin  Master Of Electrical Engineering
 Date of Brith: February, 1997
 Place of Origin: Handan, Hebei Province
-Blog: https://lin-zheng97.gitee.io
 E-mail: linzheng97@foxmail.com
 Research Direction  1.Multi-body power market clearing
  ※Research on the clearing of the former power system.
  ※Research on the design and planning of coordinated trading of multiple subjects.
 2.New power system planning and operation mechanism
- ※Research on multi-level guaranteed power out scenarios of new power system.</description>
+ ※Research on multi-level guaranteed power out scenarios of new power system.
+ ※Study on the cooperative power generation mechanism of wind, water, fire and storage under source network evaluation.</description>
     </item>
     
     <item>
@@ -56,8 +56,7 @@ Research Direction  1.Multi-body power market clearing
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://VictorLin-z.github.io/results/</guid>
-      <description>成果介绍  lin-zheng97.gitee.io
-成果摘要  1、基于深度学习的海上风电多机组超短期功率预测
+      <description>成果摘要  1、基于深度学习的海上风电多机组超短期功率预测
  摘要：海上风电单机预测无法快速预测海上风电场整体功率，且各机组间波动不均会造成集群功率曲线质量差、预测精度低的问题，因此本文提出考虑海上风电机组时空特性的超短期功率预测模型。首先，本文采用改进动态时间弯曲(DTW)算法量化度量海上风电机组时空特性相似度，分析海上风电机组的时空特性；然后，采用基于深度学习的Transformer模型建立海上风电预测模型；最后，综合考虑海上风电机组时空特性相似度与母线位置信息聚类海上风电机组并进行超短期功率预测。通过对海上风电场机组实测数据算例分析，本文所提出的方法可有效量化与度量海上风电机组间时空特性并及时预测超短期海上风电机组群功率。
  林铮, 刘可真, 沈赋, 等. 基于深度学习的海上风电多机组超短期功率预测[J]. 电力系统自动化.
  2、基于改进关联规则算法的换流站SER日志异常分析方法
