@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zheng Lin(Home)</title>
+    <link>https://VictorLin-z.github.io/</link>
+    <description>Recent content on Zheng Lin(Home)</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://VictorLin-z.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>education</title>
+      <link>https://VictorLin-z.github.io/education/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://VictorLin-z.github.io/education/</guid>
+      <description>Education 2020.9 一 now School: Kunming University of Science and Technology
+Major: Electrical Engineering (M.S., Advisor: Prof. Kezhen Liu)
+Research Interests: Research on new power system planning in the context of double carbon, application of machine learning in power system
+**Graduation Thesis:**Research on Robust Scheduling of Distribution Network Driven by Data Model
+2016.9 一 2020.7 School: Kunming University of Science and Technology
+Major: Electrical Engineering and its Automation (B.S., Excellence in Engineering Program)</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://VictorLin-z.github.io/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://VictorLin-z.github.io/projects/</guid>
+      <description>Work in progress Joint Data-Model Driven Robust Scheduling of Wind Power Distribution Grid(数据模型联合驱动的风电配电网鲁棒调度研究)
+Source: Master&amp;rsquo;s thesis
+Working: Distribution network, Data-driven method, Robust optimization
+Renewable Energy Forecast(可再生能源预测)
+Source: Personal research direction
+Working: Machine learning&amp;amp;Deep learning, Transformer model for time series
+Project Research and Development of Intelligent Assisted Decision and Execution Platform Based on Big Data of DC Control and Protection System of Kunbei Converter Station(基于昆北换流站直流控制保护系统大数据的智能辅助决策与执行平台研究与开发)
+Source: China Southern Power Grid (中国南方电网)</description>
+    </item>
+    
+    <item>
+      <title>publications</title>
+      <link>https://VictorLin-z.github.io/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://VictorLin-z.github.io/publications/</guid>
+      <description>journal articles [1] Zheng LIN, Kezhen LIU, Fu SHEN, et al. Ultra-short-term Power Prediction Model Considering the Spatial and Temporal Characteristics of Offshore Wind Turbines[J]. Automation of Electric Power Systems, 2022, 46(23): 59-66.“Link” （林铮, 刘可真, 沈赋, 等. 基于深度学习的海上风电多机组超短期功率预测[J]. 电力系统自动化, 2022, 46(23): 59-66. 一作）
+[2] Kezhen LIU, Zheng LIN, Zhao LUO, et al. Diagnosis Method for Typical Operation and Maintenance Event Set of DC Converter Station Based on Improved Association Rule[J]. Automation of Electric Power Systems, 2022, 46(4):180-187.</description>
+    </item>
+    
+    <item>
+      <title>services</title>
+      <link>https://VictorLin-z.github.io/services/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://VictorLin-z.github.io/services/</guid>
+      <description>Laboratory work Overall work: Assist the supervisor to complete the coordination of laboratory work, the preparation of national funds, the preparation of researchability reports, the preparation of tender content and material arrangement, the analysis of the technical route of the thesis, the polishing of the thesis, and the review of the thesis.
+Machine learning direction: assist junior sister to complete the Shanghai Jiao Tong University journal paper &amp;ldquo;Research on Dynamic Discrete Equivalent Model of Photovoltaic Power Generation System&amp;rdquo; (polishing, algorithm analysis); assist junior sister to complete the &amp;ldquo;parameter identification machine learning fitting&amp;rdquo; direction in the investment paper (example design, algorithm analysis); help junior brother to complete the related learning and code learning work of &amp;ldquo;machine learning algorithm&amp;rdquo; and &amp;ldquo;heuristic algorithm optimization neural networks&amp;rdquo;.</description>
+    </item>
+    
+  </channel>
+</rss>
